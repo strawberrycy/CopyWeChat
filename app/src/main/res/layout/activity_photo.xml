@@ -6,4 +6,9 @@
     android:layout_height="match_parent"
     tools:context="com.example.administrator.myapplication.activity.PhotoActivity">
 
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/selecting_photo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
 </android.support.constraint.ConstraintLayout>

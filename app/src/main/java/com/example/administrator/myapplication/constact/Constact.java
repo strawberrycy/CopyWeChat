@@ -5,4 +5,5 @@ package com.example.administrator.myapplication.constact;
  */
 
 public interface Constact {
+    public int REQUEST_OK = 200;
 }
